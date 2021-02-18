@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Wiki
 description: 人越学越觉得自己无知
@@ -16,4 +16,4 @@ permalink: /wiki/
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul>
+</ul> -->

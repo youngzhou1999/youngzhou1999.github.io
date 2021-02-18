@@ -8,9 +8,6 @@ menu: Links
 permalink: /links/
 ---
 
-## My personal pages
-- [Google Research](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
-- [Research Gate](https://www.researchgate.net/)
-- [UESTC](http://www.uestc.edu.cn)
-
-## Public pages
+## Mathematical Modeling PDFs
+- [MCM/ICM2021](https://youngzhou1999.github.io/pdfs/2108926.pdf)
+- [CUMCM2020](https://youngzhou1999.github.io/pdfs/B202018005030.pdf)

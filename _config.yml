@@ -42,9 +42,9 @@ navs:
     href: /categories/
     label: Blog
 
-  -
-    href: /wiki/
-    label: Wiki
+  # -
+  #   href: /wiki/
+  #   label: Wiki
 
   -
     href: /links/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: youngzhou1999/youngzhou1999.github.io
+repository: youngzhou1999
 
 # ---------------- #
 #      Comments    #
@@ -121,6 +121,6 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
-github: [metadata]
+# google:
+#     analytics_id: UA-80669434-1
+# github: [metadata]

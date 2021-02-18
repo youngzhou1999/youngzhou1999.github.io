@@ -12,7 +12,6 @@ permalink: /cv/
 
 ### 2018-Now, Undergraduate
 - College of Computer Science and Electronic Engineering, Hunan University, Changsha, China
-- GPA: 3.6 / 4.0
 
     
 
@@ -24,11 +23,11 @@ permalink: /cv/
 - Deep Reinforcement Learning
 
 ## Publications
-to be continued.
+To be continued.
 
-## Contact information
+## Contact Information
 - Github: [kmzy](https://github.com/youngzhou1999)
-- Email: [kmzy@hnu.edu.cn](www.kmzy@hnu.edu.cn)
+- Email: <a href="mailto:kmzy@hnu.edu.cn"><u>kmzy@hnu.edu.cn</u></a>
 
 ## Programming Skills
 - C/C++
