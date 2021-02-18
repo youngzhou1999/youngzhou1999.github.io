@@ -1,4 +1,3 @@
-# 沙漏
-
-我的个人博客：<https://chauby.github.io>，欢迎 Star 和 Fork。
-
+## kmzy's site
+see my site in [https://youngzhou1999.github.io](https://youngzhou1999.github.io).
+Hi, there. This repository is about my personal github pages. I forked from chauby, who's github is [<u>chauby</u>](https://chauby.github.io).
