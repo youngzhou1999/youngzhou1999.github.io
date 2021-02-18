@@ -1,0 +1,68 @@
+I"H<h1 id="周洋">周洋</h1>
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+<div id="contact-info">
+
+    
+    <i class="fi-home" style="margin-left:1em"></i>
+    <a href="https://youngzhou1999.github.io/" style="margin-left:0.5em"> youngzhou1999.github.io</a>
+    
+
+    
+    <i class="fi-mail" style="margin-left:1em"></i>
+    <a href="kmzy@hnu.edu.cn" style="margin-left:0.5em">kmzy@hnu.edu.cn</a>
+    
+
+    
+
+</div>
+
+<h2 id="教育背景">教育背景</h2>
+
+<h3 id="湖南大学-20189---至今"><strong>湖南大学</strong> <code class="language-plaintext highlighter-rouge">2018.9 - 至今</code></h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>湖南，长沙
+</code></pre></div></div>
+
+<ul>
+  <li>信息科学与工程学院，计算机科学与技术专业</li>
+  <li>GPA：3.63 / 4.0​</li>
+</ul>
+
+<h2 id="项目">项目</h2>
+
+<h3 id="1基于超声波信号的人机交互系统设计与实现省级大创项目">1.基于超声波信号的人机交互系统设计与实现<code class="language-plaintext highlighter-rouge">省级大创项目</code></h3>
+
+<ul>
+  <li>本项目主要研究一种基于超声波信号且无需附加设备的协作式手部运动跟踪方案</li>
+  <li>根据扬声器阵列，麦克风阵列和手之间的几何关系在二维平面中精确捕捉手的位置</li>
+</ul>
+
+<h2 id="经历">经历</h2>
+
+<h2 id="荣誉与奖励">荣誉与奖励</h2>
+
+<p>2020年 12月 - 国家励志奖学金 <a href="">[repo]</a></p>
+
+<p>2020年 11月 - 全国大学生数学建模竞赛一等奖 <a href="https://youngzhou1999.github.io/pdfs/B2020">[PDF]</a></p>
+
+<p>2019年 12月 - 湖南大学一等奖学金</p>
+
+<p><br /></p>
+
+<h2 id="service">Service</h2>
+
+<p>Reviewer <code class="language-plaintext highlighter-rouge">CHI 2021</code>
+Research Experiences for Undergraduates in Software Engineering Admission Committee <code class="language-plaintext highlighter-rouge">CMU, 2019 - 2020</code></p>
+
+<!-- ### Footer
+
+Last updated: January 2021 -->
+:ET
