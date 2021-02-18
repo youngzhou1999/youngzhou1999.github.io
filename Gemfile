@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
-gem 'jekyll-assets', "~> 2.4.0"
-gem "kramdown-parser-gfm"
+gem 'github-pages', group: :jekyll_plugins
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'wdm', '>=0.1.0'
