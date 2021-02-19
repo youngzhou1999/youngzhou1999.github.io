@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: youngzhou1999
+repository: youngzhou1999/youngzhou1999.github.io
 
 # ---------------- #
 #      Comments    #
