@@ -70,12 +70,12 @@ permalink: /:year/:month/:day/:title/
 plugins:
     - jekyll-github-metadata
     - rouge
-#     - jekyll-html-pipeline
+    - jekyll-html-pipeline
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
     - jemoji
-#     - jekyll-mentions
+    - jekyll-mentions
 collections:
     wiki:
         output: true

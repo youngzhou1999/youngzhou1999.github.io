@@ -1,12 +1,11 @@
 ---
 layout: post
-title: An interesting assignment of Newton Iteration in NMM course
+title: 数值计算方法第二版习题2第15题
 categories: NMM
 description: Numerical malculation method
 keywords: Newton Iteration
 ---
-
-### 数值计算方法第二版习题2第15题
+A simple proof problem in course numerical malculation method.
 
 #### 题目：
 

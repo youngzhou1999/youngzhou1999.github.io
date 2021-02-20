@@ -382,7 +382,7 @@ pre {
 }
 
 .columns {
-    margin-right: -120px;
+    margin-right: -10px;
     margin-left: -10px
 }
 
@@ -2158,13 +2158,4 @@ a.tabnav-extra:hover {
 .css-truncate.expandable:hover .css-truncate-target,
 .css-truncate.expandable:hover.css-truncate-target {
     max-width: 10000px !important
-}
-
-/* MathJax v2.7.5 from 'cdnjs.cloudflare.com' */
-.mjx-chtml {
-    outline: 0;
-  }
-.MJXc-display {
-  overflow-x: auto;
-  overflow-y: hidden;
 }
