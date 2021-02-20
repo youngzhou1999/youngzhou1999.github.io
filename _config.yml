@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://youngzhou1999.github.io
+baseurl: 
 url: https://youngzhou1999.github.io
 date_format: "ordinal"
 title: kmzy
@@ -20,7 +20,7 @@ organization: HNU
 organization_url: http://www.hnu.edu.cn
 github_username: youngzhou1999
 location: Changsha, China
-email: kmzy@hnu.deu.cn
+email: kmzy@hnu.edu.cn
 
 # ---------------- #
 #    Navigation    #
@@ -123,4 +123,4 @@ simple_jekyll_search:
 # ---------------- #
 # google:
 #     analytics_id: UA-80669434-1
-# github: [metadata]
+github: [metadata]
