@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tset
+title: A tricky assignment of Newton Iteration in NMM course
 categories: Blog
 description: Numerical malculation method
 keywords: Newton Iteration
@@ -10,10 +10,12 @@ keywords: Newton Iteration
 
 #### 题目：
 
-设函数$f(x)$在$[a,b]$上至少三阶连续可微，$p\in(a,b)$为$f(x)$的一个$m$重零点，求一个$\lambda$值使改进的$Newton$下山法
+设函数$f(x)$在$[a,b]$上至少三阶连续可微，$p\in(a,b)$为$f(x)$的一个$m$重零点，求一个$\lambda$值使改进的$Newton$下山法  
+
 $$
-x_{k+1}=x_{k}=\lambda\frac{f(x_k)}{f'(x_k)}
+x_{k+1}=x_{k}-\lambda\frac{f(x_k)}{f'(x_k)}
 $$
+
 至少是二阶收敛的。
 
 #### 求解：
