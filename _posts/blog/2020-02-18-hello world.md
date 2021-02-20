@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-categories: Blog
+categories: Test
 description: first blog
 keywords: hello world
 ---

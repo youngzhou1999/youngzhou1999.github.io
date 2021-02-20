@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A tricky assignment of Newton Iteration in NMM course
-categories: Blog
+title: An interesting assignment of Newton Iteration in NMM course
+categories: NMM
 description: Numerical malculation method
 keywords: Newton Iteration
 ---
